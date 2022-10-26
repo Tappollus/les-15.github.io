@@ -40,6 +40,13 @@ div{
   text-align: center;
 }
 
+div p{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 footer{
   padding: 10px;
   margin-left: auto;
